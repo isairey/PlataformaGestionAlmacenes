@@ -189,7 +189,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-WarehouseRentalManagementSystem/
+PlataformaGestionAlmacenes/
 │
 ├── admin/                    # Panel administrativo
 ├── warehouses/               # Gestión de almacenes
@@ -224,7 +224,7 @@ WarehouseRentalManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/WarehouseRentalManagementSystem.git
+git clone https://github.com/isairey/PlataformaGestionAlmacenes.git
 ```
 
 ---
@@ -234,7 +234,7 @@ git clone https://github.com/isairey/WarehouseRentalManagementSystem.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/WarehouseRentalManagementSystem/
+xampp/htdocs/PlataformaGestionAlmacenes/
 ```
 
 ---
@@ -283,7 +283,7 @@ define('DB_NAME','warehouse_rental_management');
 Abrir:
 
 ```bash
-http://localhost/WarehouseRentalManagementSystem/
+http://localhost/PlataformaGestionAlmacenes/
 ```
 
 ---
@@ -317,39 +317,8 @@ http://localhost/WarehouseRentalManagementSystem/
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
 
-<div align="center">
-
-### 🏭 Dashboard principal
-![Dashboard](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1200&auto=format&fit=crop)
-
-### 🔐 Inicio de sesión
-![Login](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop)
-
-### 📦 Gestión de almacenes
-![Warehouse](https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=1200&auto=format&fit=crop)
-
-### 📋 Contratos de renta
-![Contracts](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1200&auto=format&fit=crop)
-
-### 👥 Administración de usuarios
-![Users](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Panel administrativo
-![Admin](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
-
-### 📅 Gestión de reservas
-![Booking](https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop)
-
-### ⚙️ Configuración del sistema
-![Settings](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1200&auto=format&fit=crop)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
@@ -421,7 +390,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Asad — Full Stack Developer
+## Isai Reyes — Full Stack Developer
 
 Desarrollador apasionado por sistemas empresariales, logística y plataformas de administración 🚀
 
