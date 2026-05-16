@@ -352,7 +352,7 @@ http://localhost/PlataformaGestionAlmacenes/
 
 Si descubres una vulnerabilidad de seguridad dentro del sistema, puedes reportarla mediante:
 
-📧 **asad_101@outlook.com**
+📧 **Developer.SR.IRP@gmail.com**
 
 Todas las vulnerabilidades serán revisadas y atendidas rápidamente.
 
